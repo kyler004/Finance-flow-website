@@ -1,0 +1,6 @@
+{
+  "name": "FinanceFlow - Crypto Platform",
+  "description": "Buy, trade, and hold 350+ cryptocurrencies with FinanceFlow. Built with real-time crypto features, tokens list, pricing, and guides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
